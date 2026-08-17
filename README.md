@@ -12,3 +12,9 @@ Crie também um método que permita ao funcionário se apresentar.
 
 Crie a classe Produto, onde podemos cadastrar nome e o preço. Crie também
 um método que mostre uma etiqueta de preço do produto.
+
+## Desafio 18
+
+Crie a classe Churrasco, onde seja possível informar quantas pessoas vão
+participar e mostre quanto de carne deve ser comprado, o custo total
+do churrasco e o preço por pessoa.
