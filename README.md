@@ -18,3 +18,7 @@ um método que mostre uma etiqueta de preço do produto.
 Crie a classe Churrasco, onde seja possível informar quantas pessoas vão
 participar e mostre quanto de carne deve ser comprado, o custo total
 do churrasco e o preço por pessoa.
+
+## Desafio 18
+Crie a classe Livro, que vai simular a passagem de páginas de um livro,
+considerando também se o usuário chegou ao fim da leitura
