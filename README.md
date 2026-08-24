@@ -22,3 +22,8 @@ do churrasco e o preço por pessoa.
 ## Desafio 19
 Crie a classe Livro, que vai simular a passagem de páginas de um livro,
 considerando também se o usuário chegou ao fim da leitura
+
+## Desafio 20
+Crie a classe Gamer, onde podemos cadastrar nome, nick e os jogos
+favoritos de uma pessoas. Crie também um método que permita mostrar
+a ficha desse gamer.
