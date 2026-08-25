@@ -27,3 +27,7 @@ considerando também se o usuário chegou ao fim da leitura
 Crie a classe Gamer, onde podemos cadastrar nome, nick e os jogos
 favoritos de uma pessoas. Crie também um método que permita mostrar
 a ficha desse gamer.
+
+## Desafio 21
+Crie a classe Caneta, que simule o funcionamento de uma caneta
+colorida, podendo escrever frases na cor relativa.
