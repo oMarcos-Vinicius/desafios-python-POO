@@ -4,17 +4,14 @@ Desafios em Python OOB propostos pelo Youtuber Gustavo Guanabara do Curso em Vid
 https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
 
 ## Desafio 16
-
 Crie a classe Funcionário, onde podemos cadastrar nome, setor e cargo.
 Crie também um método que permita ao funcionário se apresentar.
 
 ## Desafio 17
-
 Crie a classe Produto, onde podemos cadastrar nome e o preço. Crie também
 um método que mostre uma etiqueta de preço do produto.
 
 ## Desafio 18
-
 Crie a classe Churrasco, onde seja possível informar quantas pessoas vão
 participar e mostre quanto de carne deve ser comprado, o custo total
 do churrasco e o preço por pessoa.
@@ -31,3 +28,7 @@ a ficha desse gamer.
 ## Desafio 21
 Crie a classe Caneta, que simule o funcionamento de uma caneta
 colorida, podendo escrever frases na cor relativa.
+
+## Desafio 22
+Crie a classe ControleRemoto, onde vamos simular o funcionamento
+de um controle simples (Canal, volume e liga/desliga)
